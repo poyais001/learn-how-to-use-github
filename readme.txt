@@ -3,4 +3,4 @@ Learn how to use git.
 add a line.
 add another line.
 add a line again.
-git tracks changes.
+git tracks changes of files.
